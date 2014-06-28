@@ -1,12 +1,11 @@
 .polska {
-  fill: 	#FFDB4D
-;
+  fill: 	#FFDB4D ;
 
 .city {
   /*cursor: crosshair;*/
   fill: rgba(255, 0, 0, 0.5);
-  stroke: rgba(0, 0, 0, 1);
-  stroke-width: 0px;
+  stroke: rgba(300, 0, 0, 1);
+  stroke-width: 5px;
   opacity: 0.6;
 }
 
