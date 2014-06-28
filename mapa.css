@@ -1,11 +1,11 @@
 .polska {
-  fill: 	#C1EAFF;
+  fill: #5CE6E6;
 }
 
 .city {
   /*cursor: crosshair;*/
   fill: rgba(255, 0, 0, 0.5);
-  stroke: rgba(0, 0, 0, 5);
+  stroke: rgba(0, 0, 0, 1);
   stroke-width: 0px;
   opacity: 0.6;
 }
